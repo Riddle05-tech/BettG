@@ -1,2 +1,2 @@
-# BettG
+# Bett collections
 Outfitcollection
